@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "GZonesurvival.aternos.me",
+    "port": 60978,
     "version": "1.19.3"
   },
 
